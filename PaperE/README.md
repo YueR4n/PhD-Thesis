@@ -1,11 +1,11 @@
-# PaperE
+# PaperE - AR Experience
 
 This folder is for PaperE content.
 
 QR code link: [https://mywebar.com/qr/377568]
 AR experience link: [https://mywebar.com/p/Project_0_wvjbly60vv]
 
-# Designed Platform in Chapter 8 Conclusion - Platform Design
+# Chapter 8 Conclusion - Platform Design
 
 ## Vibe coding prompts
 
