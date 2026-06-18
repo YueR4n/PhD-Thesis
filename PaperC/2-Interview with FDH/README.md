@@ -1,3 +1,3 @@
 # Interview materials
 
-This folder contains interview materials for PaperC.
+Please refer to PaperB: Sunday Soundscape to check the interview questions with FDH.
