@@ -1,6 +1,6 @@
 # PaperD
 
-This folder is for PaperD content.
+Here are the focus group questions provided. Note that the first author's natural language is Mandarin, and the focus groups were conducted in Cantonese with the help of LAM Lok Him, the third author of the paper. The English translated version is provided in parallel.
 
 ### 問卷部分 / Questionnaire Section
 
