@@ -1,5 +1,9 @@
 # Appendix
 
+## Introduction
+
+Here are the questions at each location for interview. These questions are also provided in the paper.
+
 ## Soundscape and Smellscape Evaluation Questions
 
 | Theme | Example Questions |
