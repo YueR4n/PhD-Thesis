@@ -1,4 +1,4 @@
-# PaperE - AR Experience
+# Paper E - AR Experience
 
 This folder is for PaperE content.
 
